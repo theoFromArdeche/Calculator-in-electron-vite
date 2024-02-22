@@ -1,8 +1,12 @@
 # Calculator app with Electron-vite and Vue
 
-![screenshot of the app](https://github.com/theoFromArdeche/Calculator-in-electron-vite/blob/main/app/app.png)
+<img src="https://github.com/theoFromArdeche/Calculator-in-electron-vite/blob/main/app/app.png" width="50%" height="50%">
 
 ## Project Setup
+
+```bash
+$ cd app
+```
 
 ### Install
 
