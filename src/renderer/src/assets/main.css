@@ -19,7 +19,7 @@ body {
 
 
 @font-face {
-    font-family: 'gfont_Poppins_Medium';
+    font-family: 'gfont_Poppins_ExtraBoldItalic';
     src: url('../assets/fonts/Poppins/Poppins-ExtraBoldItalic.ttf');
 }
 
@@ -40,7 +40,7 @@ body {
     font-size: 3rem;
     color: rgba(0, 0, 0, 0.726);
     background-color: #EFECEC;
-    font-family: 'gfont_Poppins_Medium', sans-serif;
+    font-family: 'gfont_Poppins_ExtraBoldItalic', sans-serif;
     font-weight: 1000;  
 }
 
@@ -53,6 +53,9 @@ body {
     flex-grow: 3;
 }
 
+#button_MOD {
+    font-size: 2rem !important;
+}
 
 #result_wrapper {
     width: 100%;
