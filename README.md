@@ -1,6 +1,6 @@
 # Calculator app with Electron-vite and Vue
 
-![screenshot of the app](https://raw.githubusercontent.com/theoFromArdeche/Calculator-in-electron-vite/app/app/png)
+![screenshot of the app](https://github.com/theoFromArdeche/Calculator-in-electron-vite/blob/main/app/app.png)
 
 ## Project Setup
 
